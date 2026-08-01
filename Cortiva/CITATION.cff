@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use the CORTIVA evaluation package, please cite the accompanying paper."
+title: "CORTIVA: Candidate-Score Fusion of Complementary Visual Teachers for EEG- and MEG-to-Image Retrieval"
+type: software
+authors:
+  - name: "CORTIVA Authors"
+version: "0.1.0-submission"
+date-released: 2026-08-01
+license: MIT
+keywords:
+  - brain-computer interface
+  - electroencephalography
+  - magnetoencephalography
+  - image retrieval
+  - retrieval evaluation
